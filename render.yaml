@@ -1,7 +1,7 @@
 services:
 - type: pserv
   name: mysql
-  region: singapore
+  region: oregon
   plan: starter
   env: docker
   disk:
